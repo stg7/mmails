@@ -12,7 +12,7 @@ For creating of pdfs/pngs you need
 Usage
 -----
 
-First you should export your sent emails, e.g. using thunderbird, as a mbox file MBOX
+First you should export your sent emails, e.g. using thunderbird, as a mbox file MBOX.
 Now you can start analyzing your emails with:
 > ./mmails.py MBOX --suffix MYEMAILS
 
